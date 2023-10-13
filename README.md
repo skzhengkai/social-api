@@ -11,8 +11,8 @@ You can try the live demo hosted at [https://matthew-media.awam.repl.co](https:/
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/skzhengkai/social-api.git
+cd social-api
 npm install
 ```
 
